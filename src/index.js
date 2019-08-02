@@ -5,7 +5,7 @@ import Card from './components/Card.js';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 import 'bootstrap/dist/css/bootstrap.css';
-import {robots} from './robots';
+import  {robots} from './robots';
 
 ReactDOM.render(
 <div>
